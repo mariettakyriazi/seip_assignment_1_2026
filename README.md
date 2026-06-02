@@ -109,7 +109,7 @@ However, I still had to test everything locally and solve problems related to Do
 
 ## Future Improvements
 
-If I had more time, I would add:
+If I had more time, I would further improve the project by adding:
 
 - an Ingress Controller
 - monitoring with Prometheus
