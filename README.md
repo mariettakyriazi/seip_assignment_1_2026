@@ -114,5 +114,5 @@ If I had more time, I would further improve the project by adding:
 - an Ingress Controller
 - monitoring with Prometheus
 - automated security scanning
-* a GitOps workflow with ArgoCD
+- a GitOps workflow with ArgoCD
 
